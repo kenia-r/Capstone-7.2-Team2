@@ -23,7 +23,7 @@ function FooterDetails() {
           <ul className="box">
             <li>
               <a href="https://www.facebook.com/">
-                <Facebook />
+                <Facebooky />
               </a>
             </li>
             <li>
